@@ -1,0 +1,31 @@
+Het idee:
+ 
+Webshop voor speciaal bier.
+
+Taken:
+
+- Mooie fotos van Specbier, stuk of 20.
+- filter in procenten; 0-6% 6-8% 8-10%
+- filter in Nederland, België, Buiten de Benelux.
+- filter op IPA, Donker, Blond, etc.
+- filter op prijs.
+- Age validation: https://css-tricks.com/snippets/jquery/validate-age/ (age form)
+- Logo DAS BIER
+- 
+
+- Witte achtergrond, veel fotos van Speciaal bier.
+- https://www.misterhop.com/bieren?gclid=EAIaIQobChMI65GWt5SQ4AIVio2yCh0V_QImEAAYAyAAEgI_efD_BwE
+- https://www.beerwulf.com/nl/?gclid=EAIaIQobChMI65GWt5SQ4AIVio2yCh0V_QImEAAYAiAAEgIngvD_BwE
+- http://www.brand.nl/onze-bieren/imperator
+- https://www.jopenbier.nl/bieren/
+- https://www.hopt.nl/
+- https://www.schloss-eggenberg.at/de/
+- http://brooklynbrewery.com/verify
+- https://www.guinness.com/en/our-beers/guinness-original/
+- https://nl.bavaria.com/nl/nl.html
+- 
+
+
+
+
+
