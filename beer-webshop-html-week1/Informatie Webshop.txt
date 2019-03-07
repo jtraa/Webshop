@@ -22,8 +22,14 @@ Taken:
 - https://www.schloss-eggenberg.at/de/
 - http://brooklynbrewery.com/verify
 - https://www.guinness.com/en/our-beers/guinness-original/
+
+
 - https://nl.bavaria.com/nl/nl.html
 - 
+
+<title> <?php $_SESSION('user_name'); ?> </title>
+
+
 
 
 
